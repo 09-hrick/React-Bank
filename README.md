@@ -11,7 +11,6 @@ Before getting started, ensure that you have the following installed on your sys
 
 ### Installation
 
-```
 1. Install NPM packages:
 ```
 npm install
